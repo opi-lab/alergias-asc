@@ -12,6 +12,10 @@ You can use the [editor on GitHub](https://github.com/opi-lab/alergias-asc/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Registro
+
+Para registrarte al evento haz click [aquí.](https://forms.office.com/Pages/ResponsePage.aspx?id=UJ5k6tInGEOcuS_P_hb9QQaYne3kQjlLsi9TXyNBngZUQkw2SDNCMDRXTEg0UFZUQ0tWU0E5TVNCTSQlQCN0PWcu)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
