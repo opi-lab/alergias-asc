@@ -47,10 +47,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opi-lab/alergias-asc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Publicaciones
+
+{% include publications.html %}
+
+
+
 ### Contacto y más información
 
 Para más información puede escribirnos al correo <opilab@utb.edu.co>. También puedes seguirnos en nuestras redes sociales.
 
+<!-- Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
