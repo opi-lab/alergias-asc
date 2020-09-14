@@ -14,7 +14,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Registro
 
-Para registrarte al evento haz click [aquí.](https://forms.office.com/Pages/ResponsePage.aspx?id=UJ5k6tInGEOcuS_P_hb9QQaYne3kQjlLsi9TXyNBngZUQkw2SDNCMDRXTEg0UFZUQ0tWU0E5TVNCTSQlQCN0PWcu)
+Para registrarte al evento tines dos opciones:
+* Para personas alérgicas e interesadas en la charla, click [aquí](https://forms.office.com/Pages/ResponsePage.aspx?id=UJ5k6tInGEOcuS_P_hb9QQaYne3kQjlLsi9TXyNBngZUQkw2SDNCMDRXTEg0UFZUQ0tWU0E5TVNCTSQlQCN0PWcu)
+
+* Para personal médico y especialiastas, click [aquí](https://forms.office.com/Pages/ResponsePage.aspx?id=UJ5k6tInGEOcuS_P_hb9QQaYne3kQjlLsi9TXyNBngZUQkw2SDNCMDRXTEg0UFZUQ0tWU0E5TVNCTSQlQCN0PWcu)
 
 ### Markdown
 
