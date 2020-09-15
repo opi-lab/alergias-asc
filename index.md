@@ -58,13 +58,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Para más información puede escribirnos al correo <opilab@utb.edu.co>. También puedes seguirnos en nuestras redes sociales.
 
 <!-- Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+[![alt text][1.1]][1] [![alt text][2.1]][2]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
-[1]: https://twitter.com/utboficial
-[2]: https://www.facebook.com/utboficial
+[1]: https://www.facebook.com/utboficial
+[2]: https://twitter.com/utboficial
 
 <img src="images/uni_min_logo.png" alt="Drawing" style="width: 500px;"/>
