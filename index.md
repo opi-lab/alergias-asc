@@ -19,41 +19,14 @@ Para registrarte al evento tines dos opciones:
 
 * Para personal médico y especialiastas, click [aquí](https://forms.office.com/Pages/ResponsePage.aspx?id=UJ5k6tInGEOcuS_P_hb9QQaYne3kQjlLsi9TXyNBngZUQkw2SDNCMDRXTEg0UFZUQ0tWU0E5TVNCTSQlQCN0PWcu)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opi-lab/alergias-asc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Publicaciones
+## Publicaciones
 
 {% include publications.html %}
 
 
 
-### Contacto y más información
+## Contacto y más información
 
 Para más información puede escribirnos al correo <opilab@utb.edu.co>. También puedes seguirnos en nuestras redes sociales.
 
