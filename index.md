@@ -23,9 +23,9 @@ Para el caso de la prueba de Prick-test que es de las más usadas, el diagnósti
 
 
 ## Registro
-Para registrarte al evento tines dos opciones:
-* Las alergias y su diagnóstico: un diálogo con los especialistas. Inscríbete [aquí](https://utb-edu.zoom.us/webinar/register/WN_8rFn9xxpSOqlOtmmhnXWaA)
-* Las alergias y su diagnóstico: un diálogo con la comunidad. Inscríbete [aquí](https://utb-edu.zoom.us/webinar/register/WN_9MhpStZeTe-9hvSnEd5U2w)
+Se realizarán dos eventos de apropiación social del conocimiento: uno dirigido a pacientes y la comunidad en general y otro a especialistas. A continuación encontrará los enlaces de inscripción para cada uno de los eventos.
+* [Las alergias y su diagnóstico: un diálogo con la comunidad.](https://utb-edu.zoom.us/webinar/register/WN_9MhpStZeTe-9hvSnEd5U2w)
+* [Las alergias y su diagnóstico: un diálogo con los especialistas.](https://utb-edu.zoom.us/webinar/register/WN_8rFn9xxpSOqlOtmmhnXWaA)
 
 
 ## Publicaciones
