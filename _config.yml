@@ -1,6 +1,9 @@
 title: Las alergias y su diagn&oacute;stico&#58; un di&aacute;logo con la comunidad
 description: Estrategia de apropiaci&oacute;n social
 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://opi-lab.github.io/optical-metrology-2021/" # the base hostname & protocol for your site
+
 theme: jekyll-theme-minimal
 
 logo: images/logo.png
