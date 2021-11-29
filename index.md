@@ -20,6 +20,9 @@ Para el diagnóstico de las enfermedades alérgicas, los médicos cuentan con un
 ## Problemas en el diagnóstico
 Para el caso de la prueba de Prick-test que es de las más usadas, el diagnóstico se ve afectado debido a que la forma de las pápulas varía considerablemente. Para simplificar la evaluación de la prueba, la forma de la pápula es comúnmente caracterizada por un diámetro promedio, asumiendo que la pápula puede ser descrita como una elipse con un diámetro máximo y un diámetro mínimo. Para estandarizar la prueba de Prick-test la Red Europea Global de la Alergia y el Asma (GA²LEN) estableció unos lineamientos para la evaluación de la prueba Prick-test. Entre las recomendaciones se tiene que solo se debe medir el diámetro máximo de la pápula y se establece que hay una reacción alérgica positiva si este diámetro es mayor o igual a 3 mm. Sin embargo esta aproximación ha demostrado ser suceptible a errores [[9](https://www.narcis.nl/publication/RecordID/oai:repub.eur.nl:95054)], ya que comunmente la medicón suele hacerce con una regla milimetrada, lo cual depende mucho de la capacidad visual y la experticia del especialista.
 
+## Video 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5K0udYrnFUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Registro
