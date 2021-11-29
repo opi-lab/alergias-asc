@@ -31,8 +31,8 @@ Se realizarán dos eventos de apropiación social del conocimiento: uno dirigido
 
 A partir del diálogo con la comunidad y revisando sus propuestas elaboramos el siguiente material como parte de la estrategia de apropiación social del conocimiento.
 
-* [Cartilla sobre el diagnóstico en alergias y nuevas tecnologías.]({{site.url}}pdfs/cartilla-diagnostico-utb-final.pdf)
-* [Infografía para los especialistas]({{site.url}}pdfs/infografia-diagnostico-utb_final-reducedsize.pdf)
+* [Cartilla sobre el diagnóstico en alergias y nuevas tecnologías.]({{site.url}}/pdfs/cartilla-diagnostico-utb-final.pdf)
+* [Infografía para los especialistas]({{site.url}}/pdfs/infografia-diagnostico-utb_final-reducedsize.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5K0udYrnFUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
